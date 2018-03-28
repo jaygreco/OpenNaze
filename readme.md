@@ -2,4 +2,5 @@ In early 2016, I began designing an all-in-one flight controller out of self-cur
 
 I recently remembered the files and decided to open-source them; it was my goal all along and it seems like a waste to do so much (FUN) reverse-engineering of hardware and firmware without sharing with others who may be interested. 
 
+![alt text](https://github.com/jaygreco/OpenNaze/blob/master/board.png)
 ![alt text](https://github.com/jaygreco/OpenNaze/blob/master/turn1.JPG)
