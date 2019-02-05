@@ -4,3 +4,5 @@ I recently came across the files and decided to open-source them; it was my goal
 
 ![alt text](https://github.com/jaygreco/OpenNaze/blob/master/board.png)
 ![alt text](https://github.com/jaygreco/OpenNaze/blob/master/turn1.JPG)
+
+UPDATE: I've released the entire all-in-one design as well. You can find more info [here](http://jay-greco.com/openaio)
